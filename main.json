@@ -1,4 +1,5 @@
 {
   "asset":"https://github.com/goatcorp/DalamudAssets/archive/refs/heads/master.zip",
+  "runtime":"https://github.com/MogsFriend/dalamando/releases/download/0.0/runtime.zip",
   "addon":""
 }
